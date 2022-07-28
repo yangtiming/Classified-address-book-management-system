@@ -3,6 +3,8 @@ Classified-address-book-management-system c language
 
 ## Classified address book management system
 
+![image](https://github.com/yangtiming/Classified-address-book-management-system/blob/main/imgs/liuchengtu.png)
+
 Implement an address book for storing information about family members, friends, and business associates. Information that can be stored on the address book includes: name, address, phone number, date of birth. The program can store up to 30 messages.
 
 Write different subfunction implementations:
@@ -59,3 +61,7 @@ Finally, the test data is kept in the file, in the first line of the //text colu
 若出现这样的情况，请老师将语言复制下来，重新创建一个c文件或者cpp文件在运行。
 
 最后,文件中保留了测试用的数据，在第一行//text的那一栏，老师可以用于测试。
+
+## Code Function display
+
+![image](https://github.com/yangtiming/Classified-address-book-management-system/blob/main/imgs/part%20function.png)
